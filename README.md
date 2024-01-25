@@ -10,3 +10,17 @@ A combination of IntelliJ Keymap and AutoHotkey script can really help.
 3. Modify the content using attached AutoHotkey.ahk as a reference
 4. Copy attached Macify.xml into IntelliJ keymaps directory. It should be in _C:\Users\<UserName>\AppData\Roaming\JetBrains\Idea<XXX>\keymaps_
 5. Restart IntelliJ, go to _Settings -> Keymap_ and select "Macify" from the dropdown
+
+## Quick Lists in IntelliJ
+_Settings -> Appearance & Behavior -> Quick Lists -> Add_
+
+Commands:
+- Call Hierarchy
+- Type Hierarchy
+- Divider
+- Toggle Zen mode
+- Toggle Presentation mode
+- Divider
+- Split Right
+- Change Splitter Orientation
+- Unsplit
