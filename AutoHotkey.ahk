@@ -18,6 +18,10 @@
 #+Left::Send ^+{Left}
 #+Right::Send ^+{Right}
 
+; Ctrl+Alt+Arrow moves window to another monitor
+^!Left::Send #+{Left}
+^!Right::Send #+{Right}
+
 #IfWinActive ahk_exe KeePassXC.exe
 !b::Send ^b
 #IfWinActive
