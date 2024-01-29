@@ -24,3 +24,15 @@ Commands:
 - Split Right
 - Change Splitter Orientation
 - Unsplit
+
+## Useful IntelliJ Plugins
+- [Code Notes](https://plugins.jetbrains.com/plugin/13028-code-notes) - Add todos, fixmes, etc without alterning code
+- [Code Reading Note](https://plugins.jetbrains.com/plugin/14068-code-reading-note) - Bookmarks on steroids
+- [Git Scope](https://plugins.jetbrains.com/plugin/10083-git-scope) - Custom scopes enable pre-review of the PR before it is created for all commits combined
+- [Grazie Pro](https://plugins.jetbrains.com/plugin/16136-grazie-pro) - Natural language writing assistant
+- [Jump to Line](https://plugins.jetbrains.com/plugin/14877-jump-to-line) - Get to any line of code while debugging
+- [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x) - Learn shortcuts
+- [Maven Helper](https://plugins.jetbrains.com/plugin/7179-maven-helper) - Best way to analyze project dependencies
+- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+- [Spot Profiler](https://plugins.jetbrains.com/plugin/13355-spot-profiler-for-java-and-kotlin) - Simplifies measuring execution time for selected pieces of code
+- [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation) - Case switching, sorting, filtering, incrementing, aligning to columns, grepping, escaping, encoding
